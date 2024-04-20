@@ -1,5 +1,5 @@
-.title{
-	font-size: 20px;
-	color: #000;
-	margin-bottom: 20px;
+div {
+	min-width: 100px;
+	min-height: 200px;
+	background-color: blue;
 }
